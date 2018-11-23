@@ -77,7 +77,7 @@ class WeatherAtPlace extends React.Component {
         return (
             <div>
                 <div className='zipcode-container'>
-                <b>Väder data: </b> {this.state.forecastData.city.name}, {this.state.forecastData.city.country} <br/>
+                <b>Weather data for: </b> {this.state.forecastData.city.name}, {this.state.forecastData.city.country} <br/>
                 </div>
                 <div className='flex-container'>
                   {this.state.forecastData.list.map(function (listItem) {

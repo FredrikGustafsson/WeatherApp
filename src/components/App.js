@@ -4,7 +4,7 @@ import WeatherAtPlace from './WeatherAtPlace';
 import Background from '../images/blueBackground.jpg';
 import React from 'react';
 
-var sectionStyle = {
+const sectionStyle = {
     width: "100%",
     height: "900px",
     backgroundImage: `url(${Background})`

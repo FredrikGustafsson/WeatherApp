@@ -27,41 +27,41 @@ class WeatherIcon extends React.Component {
 
       switch(ikon) {
           case '01d':
-              return <img height="42" width="42" src={w01d} alt='Weather' />
+              return <img height="42" width="42" src={w01d} alt='Weather' />;
           case '01n':
-              return <img height="42" width="42" src={w01n} alt='Weather' />
+              return <img height="42" width="42" src={w01n} alt='Weather' />;
           case '02d':
-              return <img height="42" width="42" src={w02d} alt='Weather' />
+              return <img height="42" width="42" src={w02d} alt='Weather' />;
           case '02n':
-              return <img height="42" width="42" src={w02n} alt='Weather' />
+              return <img height="42" width="42" src={w02n} alt='Weather' />;
           case '03d':
-              return <img height="42" width="42" src={w03d} alt='Weather' />
+              return <img height="42" width="42" src={w03d} alt='Weather' />;
           case '03n':
-              return <img height="42" width="42" src={w03n} alt='Weather' />
+              return <img height="42" width="42" src={w03n} alt='Weather' />;
           case '04d':
-              return <img height="42" width="42" src={w04d} alt='Weather' />
+              return <img height="42" width="42" src={w04d} alt='Weather' />;
           case '04n':
-              return <img height="42" width="42" src={w04n} alt='Weather' />
+              return <img height="42" width="42" src={w04n} alt='Weather' />;
           case '09d':
-              return <img height="42" width="42" src={w09d} alt='Weather' />
+              return <img height="42" width="42" src={w09d} alt='Weather' />;
           case '09n':
-              return <img height="42" width="42" src={w09n} alt='Weather' />
+              return <img height="42" width="42" src={w09n} alt='Weather' />;
           case '10d':
-              return <img height="42" width="42" src={w10d} alt='Weather' />
+              return <img height="42" width="42" src={w10d} alt='Weather' />;
           case '10n':
-              return <img height="42" width="42" src={w10n} alt='Weather' />
+              return <img height="42" width="42" src={w10n} alt='Weather' />;
           case '11d':
-              return <img height="42" width="42" src={w11d} alt='Weather' />
+              return <img height="42" width="42" src={w11d} alt='Weather' />;
           case '11n':
-              return <img height="42" width="42" src={w11n} alt='Weather' />
+              return <img height="42" width="42" src={w11n} alt='Weather' />;
           case '13d':
-              return <img height="42" width="42" src={w13d} alt='Weather' />
+              return <img height="42" width="42" src={w13d} alt='Weather' />;
           case '13n':
-              return <img height="42" width="42" src={w13n} alt='Weather' />
+              return <img height="42" width="42" src={w13n} alt='Weather' />;
           case '50d':
-              return <img height="42" width="42" src={w50d} alt='Weather' />
+              return <img height="42" width="42" src={w50d} alt='Weather' />;
           case '50n':
-              return <img height="42" width="42" src={w50n} alt='Weather' />
+              return <img height="42" width="42" src={w50n} alt='Weather' />;
           default:
               return <div>X</div>
       }
