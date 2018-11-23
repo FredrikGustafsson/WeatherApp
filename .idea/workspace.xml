@@ -4,47 +4,8 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c61bdd4b-5359-4889-a72c-9b96cb24d5db" name="Default Changelist" comment="initial">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/weather-app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/actions/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/WeatherAtPlace.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/WeatherIcon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/blueBackground.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/weather-icons/01d.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/weather-icons/01n.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/weather-icons/02d.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/weather-icons/02n.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/weather-icons/03d.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/weather-icons/03n.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/weather-icons/04d.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/weather-icons/04n.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/weather-icons/09d.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/weather-icons/09n.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/weather-icons/10d.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/weather-icons/10n.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/weather-icons/11d.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/weather-icons/11n.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/weather-icons/13d.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/weather-icons/13n.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/weather-icons/50d.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/weather-icons/50n.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reducers/location.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/helpers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    <list default="true" id="c61bdd4b-5359-4889-a72c-9b96cb24d5db" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +24,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="css" value="7" />
+          <entry key="gitignore" value="1" />
           <entry key="html" value="1" />
           <entry key="ico" value="2" />
           <entry key="jpg" value="1" />
@@ -79,6 +41,7 @@
           <entry key="Image" value="3" />
           <entry key="JSON" value="8" />
           <entry key="JavaScript" value="23" />
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="SVG" value="7" />
           <entry key="SourceMap" value="1" />
         </counts>
@@ -91,15 +54,16 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="18" />
+          <entry key="gitignore" value="21" />
           <entry key="js" value="491" />
-          <entry key="txt" value="7" />
+          <entry key="txt" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="18" />
           <entry key="JavaScript" value="491" />
-          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="PLAIN_TEXT" value="36" />
         </counts>
       </usages-collector>
     </session>
@@ -179,7 +143,7 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/WeatherAtPlace.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-48">
@@ -187,6 +151,15 @@
               <folding>
                 <element signature="e#0#53#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -218,6 +191,7 @@
         <option value="$PROJECT_DIR$/src/components/App.js" />
         <option value="$PROJECT_DIR$/src/utils/api.js" />
         <option value="$PROJECT_DIR$/src/App.test.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -288,35 +262,6 @@
               <item name="weather-app" type="b2602c69:ProjectViewProjectNode" />
               <item name="weather-app" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="weather-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="weather-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="weather-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="weather-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="weather-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="weather-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="weather-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="weather-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="reducers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="weather-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="weather-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -326,7 +271,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542968171799" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542968349369" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -369,25 +314,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542955686374</updated>
-      <workItem from="1542955687674" duration="10198000" />
+      <workItem from="1542955687674" duration="10313000" />
     </task>
+    <task id="LOCAL-00001" summary="initial changes">
+      <created>1542968258303</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542968258303</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10198000" />
+    <option name="totallyTimeSpent" value="10313000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.26439232" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.26439232" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Inspection Results" weight="0.329718" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="0" visible="true" weight="0.7537961" />
+      <window_info anchor="bottom" id="Version Control" order="0" visible="true" weight="0.4197397" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="3" />
@@ -440,6 +394,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial changes" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/serviceWorker.js">
@@ -596,6 +554,13 @@
           <folding>
             <element signature="e#0#53#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
         </state>
       </provider>
     </entry>
