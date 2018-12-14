@@ -67,5 +67,13 @@ and (max-device-width : 568px)
   { .flex-container {
     display: flex;
     flex-flow: column;
+    justify-content: center;
   }
+    .flex-item {
+        width: 150px;
+        height: 100px;
+        margin: 10px;
+        text-align: center;
+        align-self: center;
+    }
 }
