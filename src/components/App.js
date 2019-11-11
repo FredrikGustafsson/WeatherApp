@@ -47,7 +47,7 @@ class App extends React.Component {
     return (
       <div className='home-container' style={sectionStyle}>
         <form onSubmit={this.handleSubmit}>
-        <div className='zipcode-container'>    
+        <div>
             <input
                     type='text'
                     value={this.state.tempPlace}
