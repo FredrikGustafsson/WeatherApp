@@ -15,5 +15,7 @@ describe('Start page', function() {
 
         cy.get('div.zipcode-container').contains(cityToSearchFor);
 
+        cy.get('div.flex-item').should('have.length', 5)
+
     })
 })
