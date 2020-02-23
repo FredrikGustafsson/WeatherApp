@@ -9,6 +9,8 @@ describe('Start page', function() {
 
         cy.get('input').type(cityToSearchFor);
 
+        cy.get('button').should('have.length', 1)
+
         cy.get('button').contains('Get Weather').click();
 
         cy.get('div.zipcode-container').contains('Weather data for:');
